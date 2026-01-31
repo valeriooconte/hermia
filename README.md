@@ -8,7 +8,7 @@ You can try **HermIA** at this [**link**](https://hermia.vercel.app).
 
 ## Features
 
-HermIA leverages **real-time analysis** of the conversation between customer and consultant, providing feedback and suggestions obtained through interaction with an **AI agent** specialized in:
+HermIA leverages **real-time analysis** of the conversation between customer and contractor, providing feedback and suggestions obtained through interaction with an **AI agent** specialized in:
 - Keyword identification  
 - Customer sentiment analysis  
 - Information extraction  
